@@ -1,0 +1,17 @@
+/* table ,th,td{
+    border:3px solid greenyellow;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    
+}
+
+tr:nth-child(even){
+    background-color: yellow;
+}
+div{
+    overflow: auto;
+} */
+table{
+    margin: auto;
+}
